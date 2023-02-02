@@ -1,0 +1,15 @@
+C:\Users\Alexei\Desktop\control_work1\taskcode\bin\Debug\net6.0\taskcode.exe
+C:\Users\Alexei\Desktop\control_work1\taskcode\bin\Debug\net6.0\taskcode.deps.json
+C:\Users\Alexei\Desktop\control_work1\taskcode\bin\Debug\net6.0\taskcode.runtimeconfig.json
+C:\Users\Alexei\Desktop\control_work1\taskcode\bin\Debug\net6.0\taskcode.dll
+C:\Users\Alexei\Desktop\control_work1\taskcode\bin\Debug\net6.0\taskcode.pdb
+C:\Users\Alexei\Desktop\control_work1\taskcode\obj\Debug\net6.0\taskcode.csproj.AssemblyReference.cache
+C:\Users\Alexei\Desktop\control_work1\taskcode\obj\Debug\net6.0\taskcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexei\Desktop\control_work1\taskcode\obj\Debug\net6.0\taskcode.AssemblyInfoInputs.cache
+C:\Users\Alexei\Desktop\control_work1\taskcode\obj\Debug\net6.0\taskcode.AssemblyInfo.cs
+C:\Users\Alexei\Desktop\control_work1\taskcode\obj\Debug\net6.0\taskcode.csproj.CoreCompileInputs.cache
+C:\Users\Alexei\Desktop\control_work1\taskcode\obj\Debug\net6.0\taskcode.dll
+C:\Users\Alexei\Desktop\control_work1\taskcode\obj\Debug\net6.0\refint\taskcode.dll
+C:\Users\Alexei\Desktop\control_work1\taskcode\obj\Debug\net6.0\taskcode.pdb
+C:\Users\Alexei\Desktop\control_work1\taskcode\obj\Debug\net6.0\taskcode.genruntimeconfig.cache
+C:\Users\Alexei\Desktop\control_work1\taskcode\obj\Debug\net6.0\ref\taskcode.dll
